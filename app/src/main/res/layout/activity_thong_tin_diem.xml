@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context=".ThongTinDiem">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/btnBackTTDiem"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/ic_back" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:text="THÔNG TIN ĐIỂM THÀNH PHẦN"
+                android:textAlignment="center"
+                android:textColor="#AB0505"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/tvMaSinhVien"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mã sinh viên : 18T10202"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tvTenSV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên sinh viên : Trần văn a"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tvEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email : tranvana@gmail.com"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tvTenLop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tvTenNganh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="sssssssssss"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="THÊM ĐIÊM HỌC PHẦN"
+            android:textSize="18sp"
+            android:textColor="#AB0505"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"/>
+        <Spinner
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/spMonHoc"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <EditText
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etDiem"
+                android:inputType="number"
+                android:hint="Nhập điểm"/>
+            <Button
+                android:id="@+id/btnThemDiem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#AB0505"
+                android:text="Thêm"/>
+        </LinearLayout>
+        <LinearLayout
+           android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+            <TextView
+                android:id="@+id/tvTenMH"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:text="HỌC PHẦN"
+                android:layout_weight="5"/>
+            <TextView
+                android:id="@+id/tvDiem"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:text="ĐIỂM"
+                android:layout_weight="3"/>
+
+
+        </LinearLayout>
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:id="@+id/listDiem"
+            tools:listitem="@layout/dong_diem"
+            tools:ignore="NestedScrolling" />
+    </LinearLayout>
+</ScrollView>
