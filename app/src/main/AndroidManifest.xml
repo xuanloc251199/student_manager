@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.sinhvienapp">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA"
+        tools:ignore="PermissionImpliesUnsupportedChromeOsHardware" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Quản Lý Sinh Viên"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.sinhvienapp.ThongTinDiem"></activity>
+        <activity android:name="com.example.sinhvienapp.ThemMonHoc" />
+        <activity android:name="com.example.sinhvienapp.DanhSachMonHoc" />
+        <activity android:name="com.example.sinhvienapp.ThemNganh" />
+        <activity android:name="com.example.sinhvienapp.DanhSachChuyenNganh" />
+        <activity android:name="com.example.sinhvienapp.InFoAppActivity" />
+        <activity android:name="com.example.sinhvienapp.loginandregisteractivity.LoginActivity" />
+        <activity android:name="com.example.sinhvienapp.loginandregisteractivity.ChangePasswordActivity" />
+        <activity android:name="com.example.sinhvienapp.loginandregisteractivity.RegisterActivity" />
+        <activity android:name="com.example.sinhvienapp.introActivity.IntroOneActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.sinhvienapp.ThemLopActivity" />
+        <activity android:name="com.example.sinhvienapp.DanhSachLopActivity" />
+        <activity android:name="com.example.sinhvienapp.ManagerActivity" />
+        <activity android:name="com.example.sinhvienapp.ThemSinhVienActivity" />
+        <activity android:name="com.example.sinhvienapp.MainActivity" />
+        <activity android:name="com.example.sinhvienapp.Calendar" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>

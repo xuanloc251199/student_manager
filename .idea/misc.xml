@@ -1,0 +1,75 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_calendar.xml" value="0.10840108401084012" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_change_password.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_danh_sach_lop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_info_app.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_intro_one.xml" value="0.10840108401084012" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_login.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_manager.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_register.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_lop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_sinh_vien.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar_danhsachsinhvien.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar_event.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbardahsachlop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbarinfoapp.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/customtoolbarthemlop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/customtoolbarthemsv.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_lop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_sinhvien.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/edit_lop.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/sua_sinhvien.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/drawable/ic_add.xml" value="0.183" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_calendar.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_change_password.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_danh_sach_chuyen_nganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_danh_sach_lop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_danh_sach_mon_hoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_info_app.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_intro_one.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_login.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_main.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_manager.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_lop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_mon_hoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_nganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_them_sinh_vien.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/activity_thong_tin_diem.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar_danhsachsinhvien.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbar_event.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbardahsachlop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/custom_toolbarinfoapp.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/customerthemnganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/customtoolbarthemlop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/customtoolbarthemsv.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_chuyennganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_diem.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_lop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dong_sinhvien.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/dongmonhoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/edit_diem.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/edit_lop.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/edit_monhoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/edit_nganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/sua_sinhvien.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/toolbar_dschuyennganh.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/toolbar_dsmonhoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/layout/toolbar_themmonhoc.xml" value="0.21898148148148147" />
+        <entry key="..\:/Users/HP/Downloads/QUANlYSINHVIENv2/QUANlYSINHVIEN/QUANlYSINHVIEN/QUANlYSINHVIEN/app/src/main/res/menu/drawer_menu.xml" value="0.21898148148148147" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
